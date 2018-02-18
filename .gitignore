@@ -16,6 +16,7 @@ npm-debug.log*
 .sass-cache/
 .tmp/
 /android/**
+/tree/master/android/**
 .versions/
 coverage/
 dist/
