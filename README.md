@@ -15,11 +15,27 @@ npm install
 or
 yarn
 ```
-## Run in Android
-
 
 ## Run in the Web
 ```bash
 npm run web
+```
+### Building for React Native (iOS, Android, AppleTV)   
+
+iOS: Run react-native run-ios
+```
+react-native run-ios 
+``` 
+
+This start the packager as well as the iOS simulator.
+
+Android: Run react-native run-android
+```
+react-native run-android
+```
+
+
+
+
 
 
