@@ -1,4 +1,9 @@
 # react-nv-redux
-This is a starter template for Ionic projects.
+This is a starter template for [React Native](https://facebook.github.io/react-native/) projects.
 
-How to use this template
+## How to use this template
+
+
+To use this template, either create a new react-native-web-redux project using the node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/cferrer0128/react-nv-redux).
+
+### With the Ionic CLI:
