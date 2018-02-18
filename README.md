@@ -1,4 +1,4 @@
-# react-nv-redux
+# react-nv-web-redux project
 This is a starter template for [React Native](https://facebook.github.io/react-native/) projects.
 
 ## How to use this template
