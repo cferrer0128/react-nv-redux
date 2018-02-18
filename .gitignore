@@ -1,21 +1,8 @@
 # Specifies intentionally untracked files to ignore when using Git
 # http://git-scm.com/docs/gitignore
 
-*~
-*.sw[mnpcod]
-*.log
-*.tmp
-*.tmp.*
-log.txt
-*.sublime-project
-*.sublime-workspace
-.vscode/
-npm-debug.log*
-.idea/
-.sourcemaps/
-.sass-cache/
-.tmp/
 /android/**
+<<<<<<< HEAD
 /tree/master/android/**
 .versions/
 coverage/
@@ -35,3 +22,6 @@ $RECYCLE.BIN/
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
+=======
+*.java
+>>>>>>> faca272f66ef985fb5737d1d2a12c06d62335ff2
