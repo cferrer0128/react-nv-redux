@@ -6,7 +6,6 @@
 *.log
 *.tmp
 *.tmp.*
-/*.java
 log.txt
 *.sublime-project
 *.sublime-workspace
@@ -16,7 +15,7 @@ npm-debug.log*
 .sourcemaps/
 .sass-cache/
 .tmp/
-android/
+/android/**
 .versions/
 coverage/
 dist/
