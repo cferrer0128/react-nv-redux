@@ -2,26 +2,4 @@
 # http://git-scm.com/docs/gitignore
 /tree/master/android/**
 /android/**
-<<<<<<< HEAD
-/tree/master/android/**
-.versions/
-coverage/
-dist/
-node_modules/
-tmp/
-temp/
-resources/
-hooks/
-platforms/
-plugins/
-plugins/android.json
-plugins/ios.json
 
-$RECYCLE.BIN/
-
-.DS_Store
-Thumbs.db
-UserInterfaceState.xcuserstate
-=======
-*.java
->>>>>>> faca272f66ef985fb5737d1d2a12c06d62335ff2
