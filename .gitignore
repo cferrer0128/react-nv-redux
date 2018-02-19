@@ -2,7 +2,6 @@
 # http://git-scm.com/docs/gitignore
 
 /android/**
-<<<<<<< HEAD
 /tree/master/android/**
 .versions/
 coverage/
@@ -22,6 +21,3 @@ $RECYCLE.BIN/
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
-=======
-*.java
->>>>>>> faca272f66ef985fb5737d1d2a12c06d62335ff2
