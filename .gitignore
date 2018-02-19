@@ -1,8 +1,12 @@
 # Specifies intentionally untracked files to ignore when using Git
 # http://git-scm.com/docs/gitignore
 
-/android/app/build/generated/**
+!node_modules/
 
-**/android
-*.java
+node_modules/*
+!node_modules/react-native-elements/
 
+.expo/*
+npm-debug.*
+
+/beta
