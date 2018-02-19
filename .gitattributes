@@ -3,4 +3,3 @@
 # and leave all files detected as binary untouched.
 android/* linguist-vendored
 node_modules/*
-
