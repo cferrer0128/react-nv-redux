@@ -10,9 +10,9 @@
 	"dependencies": {
 		"babel-cli": "^6.26.0",
 		"babel-core": "^6.26.3",
-		"babel-loader": "^7.1.2",
+		"babel-loader": "^8.2.4",
 		"babel-plugin-transform-react-remove-prop-types": "^0.4.8",
-		"css-loader": "^0.28.7",
+		"css-loader": "^4.0.0",
 		"npm-install-version": "^6.0.2",
 		"react": "16.0.0-alpha.12",
 		"react-dom": "15.6",
@@ -24,9 +24,9 @@
 		"react-v-15.6": "^15.6.1",
 		"redux": "^3.7.2",
 		"redux-thunk": "^2.2.0",
-		"style-loader": "^0.18.2",
-		"url-loader": "^1.1.2",
-		"webpack": "^3.5.6",
+		"style-loader": "^1.1.4",
+		"url-loader": "^4.0.0",
+		"webpack": "^5.0.0",
 		"webpack-dev-server": "^3.2.1"
 	},
 	"devDependencies": {
