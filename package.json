@@ -12,7 +12,7 @@
 		"babel-core": "^6.26.3",
 		"babel-loader": "^7.1.2",
 		"babel-plugin-transform-react-remove-prop-types": "^0.4.8",
-		"css-loader": "^0.28.7",
+		"css-loader": "^5.0.0",
 		"npm-install-version": "^6.0.2",
 		"react": "16.0.0-alpha.12",
 		"react-dom": "15.6",
